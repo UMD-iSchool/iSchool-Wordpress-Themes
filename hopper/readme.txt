@@ -1,7 +1,7 @@
 Theme Name: Hopper
-Theme URI: https://www.ischool.umd.edu
-Author: Rochelle Robinson
-Author URI: https://ischool.umd.edu/faculty-staff/rochelle-robinson
+Theme URI: https://github.com/UMD-iSchool/iSchool-Wordpress-Themes
+Author: iSchool
+Author URI: https://ischool.umd.edu/
 Description: Custom iSchool theme named in honor of Grace Hopper using the Bootstrap 4 framework and Font-Awesome.
 Version: 1.0
 Text Domain: hopper
